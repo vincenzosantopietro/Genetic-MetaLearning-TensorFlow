@@ -33,3 +33,5 @@ The genetic optimizer code is inspired by the code from this blog post: https://
 ### Contributing
 Have an optimization, idea, suggestion, bug report? Pull requests greatly appreciated!
 
+### License
+MIT
