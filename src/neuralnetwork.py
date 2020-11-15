@@ -100,7 +100,7 @@ class NeuralNetwork:
         model.add(Dense(num_classes, activation='softmax'))
 
         model.compile(loss='categorical_crossentropy', optimizer=optimizer,
-                      metrics=['accuracy'])
+                      metrics=['categorical_accuracy'])
 
         return model
 
