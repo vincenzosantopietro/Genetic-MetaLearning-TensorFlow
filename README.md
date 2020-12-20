@@ -1,4 +1,4 @@
-# Automatic Multi Layer Perceptron training through Meta-Learning
+# Automatic Multi Layer Perceptron optimization through Meta-Learning
 This example code shows how to use a simple genetic algorithm to create a population of Multi Layer Perceptron (MLP)
 networks and improve their accuracy on a specific dataset by using validation accuracy as fitness function.
 
